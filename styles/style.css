@@ -227,7 +227,7 @@
   font-family: var(--accent-font), fantasy, sans-serif;
   overflow: hidden;
   position: relative;
-  transition: box-shadow 0.5s;
+  transition: box-shadow 0.3s;
   cursor: pointer;
 }
 
